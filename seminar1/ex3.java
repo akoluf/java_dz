@@ -1,3 +1,6 @@
+/*
+ * Написать калькуляятор
+*/
 package seminar1;
 
 import java.util.Scanner;
