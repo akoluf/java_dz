@@ -1,3 +1,7 @@
+/*
+ * К калькулятору из предыдущего дз добавить логирование.
+ */
+
 package seminar2;
 import java.util.Scanner;
 import java.util.logging.Logger;
