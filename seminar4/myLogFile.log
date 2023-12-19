@@ -1,0 +1,40 @@
+дек. 19, 2023 2:13:00 PM ex3 main
+INFO: My first log
+дек. 19, 2023 2:13:00 PM ex3 main
+INFO: Starting the program
+дек. 19, 2023 2:13:03 PM ex3 main
+INFO: First number: 322.0
+дек. 19, 2023 2:13:04 PM ex3 main
+INFO: Second number: 55.0
+дек. 19, 2023 2:13:07 PM ex3 main
+INFO: Operation: 3
+дек. 19, 2023 2:13:07 PM ex3 main
+SEVERE: Error: Invalid operation!
+дек. 19, 2023 2:13:16 PM ex3 main
+INFO: My first log
+дек. 19, 2023 2:13:16 PM ex3 main
+INFO: Starting the program
+дек. 19, 2023 2:13:18 PM ex3 main
+INFO: First number: 223.0
+дек. 19, 2023 2:13:19 PM ex3 main
+INFO: Second number: 433.0
+дек. 19, 2023 2:13:23 PM ex3 main
+INFO: Operation: *
+дек. 19, 2023 2:13:23 PM ex3 main
+INFO: Multiplication operation
+дек. 19, 2023 2:13:23 PM ex3 main
+INFO: Result: 96559.0
+дек. 19, 2023 2:13:35 PM ex3 main
+INFO: My first log
+дек. 19, 2023 2:13:35 PM ex3 main
+INFO: Starting the program
+дек. 19, 2023 2:13:38 PM ex3 main
+INFO: First number: 545.0
+дек. 19, 2023 2:13:39 PM ex3 main
+INFO: Second number: 3.0
+дек. 19, 2023 2:13:41 PM ex3 main
+INFO: Operation: u
+дек. 19, 2023 2:13:41 PM ex3 main
+INFO: Undo operation
+дек. 19, 2023 2:13:41 PM ex3 main
+INFO: Result: 0.0
